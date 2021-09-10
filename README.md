@@ -49,7 +49,7 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
 
 
        
-![snake gif](https://github.com/Shubhanshu156/Shubhanshu156/blob/output/github-contribution-grid-snake.gif
+![github contribution grid snake animation](https://github.com/Shubhanshu156/Shubhanshu156/blob/output/github-contribution-grid-snake.gif)
        
 <a href="mailto:shubhanshusharma2712@gmail.com"><img  src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png"/> 
 <a href="https://in.linkedin.com/in/shubhanshu-sharma-940996200" /><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/>
