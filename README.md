@@ -25,7 +25,7 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
           private void skills() {
                 String[] languages = {"C","JAVA","PYTHON","C++"};
                 String[] databases = {"MySQL","SQlite","MongoDB"};
-                String[] tools = {"Android Studio","VSCode","Jupyter"};
+                String[] tools = {"Android Studio","VSCode","Jupyter","FireBase};
 
           }
 
