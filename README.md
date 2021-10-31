@@ -39,10 +39,9 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
 
 
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
+
 
 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu156&theme=dark&layout=compact" />
