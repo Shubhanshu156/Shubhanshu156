@@ -17,7 +17,8 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
                 String[] position={"Problem Setter/Tester @ Codechef RTU Chapter"};
                 String aboutme="I'm Shubhanshu Sharma, a Second Year Student currently pursuing my Bachelor's in Information Technology.
                                 I like to learn and developing Android Application and Competative Programming!
-                               .Currently  learning Android Devlopment and Working on Some android Projects."
+                               Currently  learning Android Devlopment and Working on Some android Projects.
+                                I’m looking to collaborate on Awesome Project;"
 
                 skills();
           }
