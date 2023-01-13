@@ -44,11 +44,6 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
  <div>
 
 
-
-<img height="230em" src="https://github-readme-stats.vercel.app/api?username=Shubhanshu156&show_icons=true&theme=radical" />
-
-
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu156&layout=compact" />
 <img  vertical-align:"middle" src="https://komarev.com/ghpvc/?username=Shuhbanshu156&color=blueviolet" alt="Shubhanshu156" /> 
         </div>
 
