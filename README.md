@@ -43,8 +43,6 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
 
  <div>
 
-
-<img  vertical-align:"middle" src="https://komarev.com/ghpvc/?username=Shuhbanshu156&color=blueviolet" alt="Shubhanshu156" /> 
         </div>
 
         
