@@ -13,8 +13,8 @@ public class GitHubBio extends AppCompatActivity implements shubhanshu.OnReadMeL
                 String name = "Shubhanshu Sharma";
                 String title = "Android Developer";
                 String location = "Jaipur, Rajasthan";
-                String[] interest={"Android Devlopment","Competative Programming"} ;
-                String[] position={"Problem Setter/Tester @ Codechef RTU Chapter"};
+                String[] interest={"Android Devlopment","Competative Programming","Technical Content Writing"} ;
+                String[] position={"Problem Setter/Tester @ Codechef RTU Chapter","Technical Content Writer at Scaler","Technical Content Writer at TutorialsPoint"};
                 String aboutme="I'm Shubhanshu Sharma, a Second Year Student currently pursuing my Bachelor's in Information Technology.
                                 I like to learn and developing Android Application and Competative Programming!
                                Currently  learning Android Devlopment and Working on Some android Projects.
